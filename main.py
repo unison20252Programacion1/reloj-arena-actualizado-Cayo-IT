@@ -37,7 +37,7 @@ def main():
 
     # TODO: llamar a la función triangulo_simetrico con los parámetros m y s
     # ERRATA: llamar a la función reloj_arena con los parámetros m y s.
-    reloj_arena(m, s) 
+    reloj_arena(m, s[0]) 
 
 if __name__ == "__main__":
     main()
