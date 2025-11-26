@@ -12,3 +12,4 @@ def reloj_arena(m: int, s: str) -> str:
         print(' ' * (m - i) + s * (2 * i - 1))
     return
 
+    reloj_arena(m, s[0])
